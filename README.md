@@ -1,6 +1,6 @@
 ## About me:
 - 🖥️ I’m learning programming since the start of 2021, focusing on web development.
-- 🔭 I’m currently looking for my first job as web developer.
+- 🔭 I’m currently looking for my first job as a web developer.
 - 🌱 I’m currently learning TypeScript, coding good practices and algorithms.
 - :books:  My favorite hobby is practicing and speaking languages.
 
